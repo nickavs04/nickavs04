@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickavs04
 - 👀 I'm building and experimenting with a few concepts within the Wine Industry & Ticketed Events space.
-- 🌱 I’m currently learning CS50 from harvards free course, as well as leveraging all of the major AI tooling (Claude Code, Cursor, Gemini, & n8n)
+- 🌱 I’m currently learning CS50 from Harvard's free course, as well as leveraging AI tooling (Claude Code, Cursor, Gemini, n8n, E2B, Browserbase)
 
 <!---
 nickavs04/nickavs04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
