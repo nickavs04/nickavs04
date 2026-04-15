@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickavs04
-- 👀 I'm building and experimenting with a few concepts within the Wine Industry & Ticketed Events space.
+- 👀 I'm building and experimenting with a few concepts within the wine & live event industry, venture capital, and orchestrating my B2B sales role.  
 - 🌱 I’m currently learning CS50 from Harvard's free course, as well as leveraging AI tooling (Claude Code, Cursor, Gemini, n8n, E2B, Browserbase)
 
 <!---
